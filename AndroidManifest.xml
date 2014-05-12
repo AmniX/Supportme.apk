@@ -13,8 +13,7 @@
         android:label="@string/app_name"
         android:theme="@style/AmniXTheme" >
         <activity android:name="com.amnix.supportme.supportme_activity_main_amnix" 
-            android:label="@string/wordfromdev"
-            android:screenOrientation="user">
+            android:label="@string/wordfromdev">
        	  <intent-filter>
             <category android:name="android.intent.category.LAUNCHER" />
             <action android:name="android.intent.action.MAIN"/>
